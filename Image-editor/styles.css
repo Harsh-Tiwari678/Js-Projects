@@ -44,9 +44,9 @@ main section .top{
     color: var(--text-primary-color);
 }
 main section .left{
-    display: flex;
+    display: flex; /* items ek line mein aajaye */
     flex-direction: column;
-    gap: var(--gutter-lg);
+    gap: var(--gutter-lg); /*gap between buttons and image placeholder */
     width: 70%;
     align-items: center;
 }
