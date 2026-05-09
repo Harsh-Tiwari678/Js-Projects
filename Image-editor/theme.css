@@ -3,6 +3,8 @@
     --bg-primary-color: rgb(16, 16, 16);
     --bg-secondary-color: rgb(32, 32, 32);
     --bg-active-color : rgb(233, 233, 233);  /* actuve state ka background color define karne ke liye */
+    --bg-danger-color : rgba(213, 7, 7, 0.553);
+    --bg-succes-color : green;
 
 
     /* text-color */
@@ -12,43 +14,43 @@
    --text-active-color : rgb(24, 24, 24);
 
     /* padding */
-     --padding-sm: 0.5 rem;    /*small */
-     --padding-md: 1 rem;     /*medium */
-     --padding-lg: 1.5 rem;  /*large */
-     --padding-xl : 2 rem;    /*extra large  */
-     --padding-2xl : 3 rem;  /*extra extra large */
+     --padding-sm: 0.5rem;    /*small */
+     --padding-md: 1rem;     /*medium */
+     --padding-lg: 1.5rem;  /*large */
+     --padding-xl : 2rem;    /*extra large  */
+     --padding-2xl : 3rem;  /*extra extra large */
 
      /* margin */
-     --margin-sm: 0.5 rem;    /*small */
-     --margin-md: 1 rem;     /*medium */
-     --margin-lg: 1.5 rem;  /*large */
-     --margin-xl : 2 rem;    /*extra large  */
-     --margin-2xl : 3 rem;  /*extra extra large */
+     --margin-sm: 0.5rem;    /*small */
+     --margin-md: 1rem;     /*medium */
+     --margin-lg: 1.5rem;  /*large */
+     --margin-xl : 2rem;    /*extra large  */
+     --margin-2xl : 3rem;  /*extra extra large */
 
 
      /*gutter -> jaha bhi display flex use karenge aur grid vha pe elements ke beech ka space is gutter */
-     --gutter-sm:0.5 rem;
-     --gutter-md:1 rem;
-     --gutter-lg:1.5 rem;
-     --gutter-xl:2 rem;
-     --gutter-2xl:3 rem;
+     --gutter-sm:0.5rem;
+     --gutter-md:1rem;
+     --gutter-lg:1.5rem;
+     --gutter-xl:2rem;
+     --gutter-2xl:3rem;
 
      /*font size*/
   
-     --font-size-sm: 0.875 rem;    /*small */
-     --font-size-md: 1 rem;     /*medium */
-     --font-size-lg: 1.125 rem;  /*large */
-     --font-size-xl : 1.5 rem;    /*extra large  */
-     --font-size-2xl : 2 rem;  /*extra extra large */
+     --font-size-sm: 0.875rem;    /*small */
+     --font-size-md: 1rem;     /*medium */
+     --font-size-lg: 1.125rem;  /*large */
+     --font-size-xl : 1.5rem;    /*extra large  */
+     --font-size-2xl : 2rem;  /*extra extra large */
 
 
      /*border-radius*/
 
-    --broder-radius-sm:0.2 rem;
-    --broder-radius-md:0.25 rem;
-    --broder-radius-lg:0.3 rem;
-    --broder-radius-xl:0.4 rem;
-    --broder-radius-2xl:0.5 rem;
+    --broder-radius-sm:0.2rem;
+    --broder-radius-md:0.25rem;
+    --broder-radius-lg:0.3rem;
+    --broder-radius-xl:0.4rem;
+    --broder-radius-2xl:0.5rem;
      
 
 }
