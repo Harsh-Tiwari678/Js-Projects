@@ -30,6 +30,7 @@ main section{
     background-color: var(--bg-active-color);
     cursor: pointer;
     color: var(--text-active-color);
+
     
 }
 main section .top{
@@ -123,4 +124,9 @@ canvas{
     display: none;
     max-width: 90%;
     max-height: 80vh;
+}
+.presets{
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--gutter-sm)
 }
