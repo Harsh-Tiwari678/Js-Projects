@@ -2,7 +2,7 @@
     /* bg-color */
     --bg-primary-color: rgb(16, 16, 16);
     --bg-secondary-color: rgb(32, 32, 32);
-    --bg-active-color : rgb(233, 233, 233);  /* actuve state ka background color define karne ke liye */
+    --bg-active-color : rgb(233, 233, 233);  /* active state ka background color define karne ke liye */
     --bg-danger-color : rgba(213, 7, 7, 0.553);
     --bg-succes-color : green;
     --bg-button-color : rgb(66, 66, 66);
